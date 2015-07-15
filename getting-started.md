@@ -141,9 +141,8 @@ Once you have an uncompressed CloudRouter image, you can use it to create your v
 * Set your memory and vCPU to a minimum of 2048 MiB and 2 vCPUs. 
 * Give your virtual machine a name, such as "CloudRouter-test". 
 * Click **Finish**. CloudRouter will automatically begin installing on the virtual machine. 
-* If the installation was a success, you should have a running virtual machine with a command line interface that looks like this: 
-
-[image]
+* If the installation was a success, you should have a running virtual machine with a command line interface. 
+* Once the installation is successful, power down the machine so you can attach the metadata ISO. 
 
 ### Attaching the Metadata ISO 
 
