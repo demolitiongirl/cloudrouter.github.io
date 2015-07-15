@@ -74,7 +74,7 @@ The full image is also a Fedora Remix with the CloudRouter repository pre-config
 
 * [BIRD](http://bird.network.cz/)
 * [Quagga](http://www.nongnu.org/quagga/)
-* [OpenDaylight Helium](http://www.opendaylight.org/) 
+* [OpenDaylight Lithium](http://www.opendaylight.org/) 
 * [Capstan](https://github.com/cloudius-systems/capstan/blob/master/README.md)
 * [Mininet](http://mininet.org/)
 * [ONOS](http://onosproject.org/)
@@ -199,7 +199,7 @@ Run yum update to make sure you have the latest versions of all the included pac
 
 ### Running OpenDaylight
 
-CloudRouter 1.0 beta includes a distribution of OpenDaylight Helium SR3. For information on installing and running OpenDaylight on CloudRouter, see the <a href="https://github.com/cloudrouter/cloudrouter.github.io/wiki/Running-OpenDaylight">Running OpenDaylight</a> wiki page. For more details on using OpenDaylight, see the upstream <a href="http://www.opendaylight.org/resources/getting-started-guide">OpenDaylight Getting Started Guide</a>.
+CloudRouter 1.0 beta includes a distribution of OpenDaylight Lithium. For information on installing and running OpenDaylight on CloudRouter, see the <a href="https://github.com/cloudrouter/cloudrouter.github.io/wiki/Running-OpenDaylight">Running OpenDaylight</a> wiki page. For more details on using OpenDaylight, see the upstream <a href="http://www.opendaylight.org/resources/getting-started-guide">OpenDaylight Getting Started Guide</a>.
 
 ### Bridging Public Clouds with CloudRouter
 
